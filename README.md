@@ -12,7 +12,7 @@ Crie uma imagem com link externo:
 
 ## Resultado Final
 
-[<img src="./resultado.jpg" alt="tabela feita usando HTML">](https://priscila199.github.io/imagem-com-link/)
+[<img src="./resultado.jpg" alt="imagem com link feita usando HTML">](https://priscila199.github.io/imagem-com-link/)
 
 ## Tecnologia Utilizada
 - HTML
