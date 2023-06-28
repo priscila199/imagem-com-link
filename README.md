@@ -1,7 +1,7 @@
 # Imagem com link
 Projeto de um exercício proposto para mostar o uso de uma imagem de placeholder atrelada ao link do site do Google usando HTML.
 
-## Exercício proposto
+## Exercício Proposto
 
 Crie uma imagem com link externo:
 
